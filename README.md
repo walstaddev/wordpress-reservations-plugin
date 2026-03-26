@@ -61,10 +61,16 @@ It demonstrates:
 - Admin dashboard integration
 
 
+## Screenshots
 
-
-
+### Reservation Form
 <img width="784" height="524" alt="image" src="https://github.com/user-attachments/assets/892a99f4-513b-4d33-a0ba-733974f8849c" />
+
+
+### Admin Dashboard
+<img width="925" height="466" alt="image" src="https://github.com/user-attachments/assets/56be15bf-f61f-4bf1-a415-ca63b6f433af" />
+
+
 
 
 
