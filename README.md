@@ -59,3 +59,12 @@ It demonstrates:
 - Custom database table creation
 - Backend form processing
 - Admin dashboard integration
+
+
+
+
+
+<img width="784" height="524" alt="image" src="https://github.com/user-attachments/assets/892a99f4-513b-4d33-a0ba-733974f8849c" />
+
+
+
